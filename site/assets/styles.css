@@ -160,3 +160,6 @@ nav{gap:20px}}
 .thesis-numbers p{font-family:var(--mono)}.thesis p{line-height:1.6;overflow-wrap:anywhere}.thesis h1{font-weight:300;font-size:clamp(40px,6vw,68px)}.thesis h2{font-weight:400;font-size:26px}.thesis section:first-of-type h2{font-family:var(--serif)}
 
 .thesis{padding-top:130px}.thesis p,.thesis li{font-size:19px;line-height:1.7}.thesis h2{font-size:32px;line-height:1.2;margin-top:56px;scroll-margin-top:110px}.thesis .kicker{font-size:12px}.subtitle{font-family:var(--serif);font-size:26px!important;color:var(--soft)}details{padding:20px 0;border-block:1px solid var(--line)}summary{cursor:pointer}li{margin:12px 0}.thesis a{text-decoration:underline;text-underline-offset:4px}.brand{font-family:var(--serif)}.publication-date{font-size:14px!important;color:var(--soft)}@media(max-width:600px){.thesis{padding-top:115px}.thesis p,.thesis li{font-size:18px}header{gap:18px}.brand{font-size:18px}nav{font-size:14px}.thesis h2{font-size:28px}}
+
+/* SR-001 v1.1 responsive evidence assets */
+.evidence-table{overflow-x:auto}table{border-collapse:collapse;font-size:14px;width:100%}th,td{padding:12px;border-bottom:1px solid #ccc;text-align:left}article img{width:100%;height:auto}code{overflow-wrap:anywhere;font-size:13px}.thesis h1{font-size:clamp(36px,6vw,64px)}.hash{overflow-wrap:anywhere}
