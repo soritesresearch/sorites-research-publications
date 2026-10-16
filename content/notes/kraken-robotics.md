@@ -12,7 +12,12 @@
   "position": "No current position in PNG or KRKNF as of October 16, 2026.",
   "tradingHistory": "Previously held Kraken Robotics and sold the position at a profit a year or more before publication.",
   "companyContact": "No company contact or relationship. Sorites receives no payment, sponsorship or other compensation from covered companies.",
-  "corrections": []
+  "corrections": [
+    {
+      "date": "2026-10-16",
+      "text": "Added enterprise-value reconstruction and illustrative scenario charts. The charts visualize the existing rounded figures; valuation assumptions and conclusions are unchanged."
+    }
+  ]
 }
 ---
 *Information cutoff: October 15, 2026. Valuation reference: C$4.00, rounded from the reported C$3.98 close.*
@@ -32,6 +37,8 @@ But three parts of the popular thesis currently outrun the evidence:
 At C$4.00, the valuation is no longer built on the near-perfect execution implied by the former high. It still assumes a successful integration and substantial EBITDA growth. If combined EBITDA eventually reaches C$140–150 million, the present valuation may prove conservative; if integration or cash conversion falters, it leaves meaningful room for further compression.
 
 ---
+
+<span id="ev-reconstruction"></span>
 
 ## 1. Market value and real enterprise value
 
@@ -78,6 +85,8 @@ This suggests roughly **C$163m of reconstructed closing cash**, **C$151m of gros
 Using the treasury-stock diluted capitalization, an illustrative reconstruction produces approximately **C$1.53bn of lease-adjusted enterprise value**. Given the missing closing balance sheet and subsequent working-capital movements, **C$1.50–1.60bn** is a more appropriate working range than a precise point estimate.
 
 The C$615m acquisition price must not be added again to this figure: its debt, cash use and issued shares are already reflected in the reconstructed capital structure.
+
+<figure class="note-chart" id="ev-waterfall"><div class="chart-scroll" tabindex="0" role="region" aria-label="Enterprise-value waterfall chart, horizontally scrollable"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="evw-title evw-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif"><title id="evw-title">Reconstructed enterprise value waterfall for Kraken Robotics</title><desc id="evw-desc">Waterfall chart, Canadian dollars millions: treasury-stock diluted equity value 1,517, plus 151 gross debt, minus 163 reconstructed cash, plus 22 lease liabilities, equals approximately 1,527 lease-adjusted enterprise value, about C$1.53 billion. Working range C$1.50 to C$1.60 billion.</desc><rect width="720" height="460" fill="#faf8f4"/><text x="64" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#1a1714">Reconstructed enterprise value</text><text x="64" y="62" font-size="13" fill="#6b6259">At the C$4.00 reference price &#183; treasury-stock diluted &#183; C$ millions</text><g stroke="#e5ded2" stroke-width="1"><line x1="64" y1="352" x2="696" y2="352"/><line x1="64" y1="308.7" x2="696" y2="308.7"/><line x1="64" y1="265.3" x2="696" y2="265.3"/><line x1="64" y1="222" x2="696" y2="222"/><line x1="64" y1="178.7" x2="696" y2="178.7"/><line x1="64" y1="135.3" x2="696" y2="135.3"/><line x1="64" y1="92" x2="696" y2="92"/></g><g font-size="11" fill="#6b6259" text-anchor="end" font-variant-numeric="tabular-nums"><text x="56" y="356">1.40</text><text x="56" y="312.7">1.45</text><text x="56" y="269.3">1.50</text><text x="56" y="226">1.55</text><text x="56" y="182.7">1.60</text><text x="56" y="139.3">1.65</text><text x="56" y="96">1.70</text><text x="56" y="82">C$bn</text></g><g stroke="#6b6259" stroke-width="1"><line x1="171.2" y1="250.6" x2="209.6" y2="250.6"/><line x1="297.6" y1="119.7" x2="336" y2="119.7"/><line x1="424" y1="261" x2="462.4" y2="261"/><line x1="550.4" y1="241.9" x2="588.8" y2="241.9"/></g><rect x="83.2" y="250.6" width="88" height="101.4" fill="#1a1714"/><rect x="209.6" y="119.7" width="88" height="130.9" fill="#c8a951"/><rect x="336" y="119.7" width="88" height="141.3" fill="#6b6259"/><rect x="462.4" y="241.9" width="88" height="19.1" fill="#c8a951"/><rect x="588.8" y="241.9" width="88" height="110.1" fill="#1a1714"/><g font-size="13" font-weight="600" fill="#1a1714" text-anchor="middle" font-variant-numeric="tabular-nums"><text x="127.2" y="242">C$1,517m</text><text x="253.6" y="107">+C$151m</text><text x="380" y="107">&#8722;C$163m</text><text x="506.4" y="229">+C$22m</text><text x="632.8" y="229">C$1,527m</text></g><g font-size="12.5" fill="#1a1714" text-anchor="middle"><text x="127.2" y="378">Equity value</text><text x="253.6" y="378">+ Gross debt</text><text x="380" y="378">&#8722; Cash</text><text x="506.4" y="378">+ Leases</text><text x="632.8" y="378">Enterprise value</text></g><g font-size="11" fill="#6b6259" text-anchor="middle"><text x="127.2" y="396">treasury-stock diluted</text><text x="380" y="396">reconstructed</text><text x="632.8" y="396">range C$1.50&#8211;1.60bn</text></g><text x="64" y="434" font-size="11" fill="#6b6259">Illustrative reconstruction from public filings (see note &#167;1). Axis starts at C$1.40bn.</text></svg></div><figcaption>Rounded inputs: C$1,517m equity + C$151m debt − C$163m cash + C$22m leases = C$1,527m EV. Illustrative reconstruction; working range C$1.50–1.60bn. The vertical axis starts at C$1.40bn. See <a href="#ev-reconstruction">section 1 and its filing sources</a>.<span class="chart-mobile-hint"> Scroll horizontally to read the full chart.</span></figcaption></figure>
 
 ---
 
@@ -318,6 +327,8 @@ There are also real negatives:
 
 ---
 
+<span id="illustrative-scenarios"></span>
+
 ## 8. Illustrative scenarios
 
 The following 2027 scenarios are illustrative enterprise-value sensitivities built on my own assumptions. They are not management forecasts, price targets or predictions.
@@ -327,6 +338,8 @@ The following 2027 scenarios are illustrative enterprise-value sensitivities bui
 | Bear | C$85m | 8× | C$50m net debt | C$630m |
 | Base | C$120m | 13× | neutral net debt | C$1.56bn |
 | Bull | C$150m | 17× | C$50m net cash | C$2.60bn |
+
+<figure class="note-chart" id="scenario-sensitivities"><div class="chart-scroll" tabindex="0" role="region" aria-label="Illustrative scenario chart, horizontally scrollable"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 470" role="img" aria-labelledby="scn-title scn-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif"><title id="scn-title">2027 illustrative equity-value scenarios for Kraken Robotics</title><desc id="scn-desc">Bar chart, Canadian dollars millions: bear scenario 630, base scenario 1,560, bull scenario 2,600. Dashed gold line marks the current treasury-stock diluted equity value of about 1,517 million at the C$4.00 reference price. Scenarios are illustrative sensitivities on the author's own assumptions, not forecasts or price targets.</desc><rect width="720" height="470" fill="#faf8f4"/><text x="64" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#1a1714">2027 illustrative equity-value scenarios</text><text x="64" y="62" font-size="13" fill="#6b6259">Author&#8217;s own assumptions &#183; not forecasts, price targets, or predictions &#183; C$ millions</text><g stroke="#e5ded2" stroke-width="1"><line x1="64" y1="360" x2="696" y2="360"/><line x1="64" y1="293" x2="696" y2="293"/><line x1="64" y1="226" x2="696" y2="226"/><line x1="64" y1="159" x2="696" y2="159"/><line x1="64" y1="92" x2="696" y2="92"/></g><g font-size="11" fill="#6b6259" text-anchor="end" font-variant-numeric="tabular-nums"><text x="56" y="364">0</text><text x="56" y="297">700</text><text x="56" y="230">1,400</text><text x="56" y="163">2,100</text><text x="56" y="96">2,800</text><text x="56" y="82">C$m</text></g><rect x="109.3" y="299.7" width="120" height="60.3" fill="#1a1714"/><rect x="320" y="210.7" width="120" height="149.3" fill="#1a1714"/><rect x="530.7" y="111.1" width="120" height="248.9" fill="#1a1714"/><line x1="64" y1="214.8" x2="696" y2="214.8" stroke="#a8863d" stroke-width="1.5" stroke-dasharray="6 4"/><text x="690" y="206" font-size="11.5" fill="#a8863d" text-anchor="end">Current &#8776; C$1.52bn at C$4.00</text><g font-size="14" font-weight="600" fill="#1a1714" text-anchor="middle" font-variant-numeric="tabular-nums"><text x="169.3" y="287">C$630m</text><text x="380" y="198">C$1.56bn</text><text x="590.7" y="98">C$2.60bn</text></g><g font-size="13" fill="#1a1714" text-anchor="middle"><text x="169.3" y="386">Bear</text><text x="380" y="386">Base</text><text x="590.7" y="386">Bull</text></g><g font-size="11" fill="#6b6259" text-anchor="middle" font-variant-numeric="tabular-nums"><text x="169.3" y="404">C$85m EBITDA &#183; 8&#215;</text><text x="380" y="404">C$120m EBITDA &#183; 13&#215;</text><text x="590.7" y="404">C$150m EBITDA &#183; 17&#215;</text></g><text x="64" y="442" font-size="11" fill="#6b6259"><tspan x="64" dy="0">Illustrative sensitivities; see note &#167;8.</tspan><tspan x="64" dy="16">Balance sheet: bear C$50m net debt; base neutral; bull C$50m net cash.</tspan></text></svg></div><figcaption>The author’s illustrative sensitivities, not forecasts or price targets. The dashed line uses the note’s rounded C$4.00 reference price. See <a href="#illustrative-scenarios">section 8 for the EBITDA, multiple and balance-sheet assumptions</a>.<span class="chart-mobile-hint"> Scroll horizontally to read the full chart.</span></figcaption></figure>
 
 ### Bear case
 
