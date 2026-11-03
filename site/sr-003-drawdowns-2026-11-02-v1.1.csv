@@ -1,0 +1,8 @@
+security,exchange,currency,baseline_date,baseline_close,reported_high,change_from_high_pct,verification_status,high_source,access_date
+"HPS.A","TSX","CAD","2026-11-02","220.81","365.12","-39.523992","Exchange quote dated November 2","https://money.tmx.com/quote/HPS.A","2026-11-03"
+"HMM.A","TSX","CAD","2026-11-02","25.82","29.20","-11.575342","November 2 quote; high September 24","https://markets.ft.markitdigital.com/data/equities/tearsheet/summary?s=HMM.A%3ATOR","2026-11-03"
+"MATR","TSX","CAD","2026-11-02","19.45","22.39","-13.130862","November 2 closing snapshot","https://index.businessinsurance.com/businessinsurance/quote?Symbol=TSX%3AMATR","2026-11-03"
+"KEEL","TSX","CAD","2026-11-02","2.66","10.81","-75.393154","November 2 snapshot corroborated by TMX","https://www.fundlibrary.com/Stocks/Detail/479413","2026-11-03"
+"XNDU","TSX","CAD","2026-11-02","3.64","57.00","-93.614035","TSX high; since listing March 2026","https://www.fundlibrary.com/Stocks/Detail/870685?FundName=Xanadu+Quantum+Technologies+Limited+Class+B+Subordinate+Voting+Shares","2026-11-03"
+"PNG","TSXV","CAD","2026-11-02","3.70","10.72","-65.485075","November 2 quote corroborated by TMX","https://markets.financialcontent.com/stocks/quote?Symbol=TSV%3APNG","2026-11-03"
+"DPRO","CSE","CAD","2026-11-02","4.90","15.27","-67.910936","PROVISIONAL: November 2 secondary snapshot; current CSE field differs","https://www.investing.com/equities/draganfly?cid=1166274","2026-11-03"
