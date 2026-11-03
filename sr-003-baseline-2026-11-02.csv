@@ -1,0 +1,9 @@
+security,exchange,currency,baseline_date,official_close,source,access_date
+HPS.A,TSX,CAD,2026-11-02,220.81,https://money.tmx.com/quote/HPS.A,2026-11-03
+HMM.A,TSX,CAD,2026-11-02,25.82,https://money.tmx.com/quote/HMM.A,2026-11-03
+MATR,TSX,CAD,2026-11-02,19.45,https://money.tmx.com/quote/MATR,2026-11-03
+KEEL,TSX,CAD,2026-11-02,2.66,https://money.tmx.com/quote/KEEL,2026-11-03
+XNDU,TSX,CAD,2026-11-02,3.64,https://money.tmx.com/quote/XNDU,2026-11-03
+PNG,TSXV,CAD,2026-11-02,3.70,https://money.tmx.com/quote/PNG,2026-11-03
+DPRO,CSE,CAD,2026-11-02,4.90,https://thecse.com/listings/draganfly-inc/,2026-11-03
+S&P/TSX Composite,INDEX,INDEX_POINTS,2026-11-02,35801.09,https://money.tmx.com/en/,2026-11-03
