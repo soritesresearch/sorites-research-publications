@@ -7,3 +7,8 @@ bf66d9c921510897df075758fb7a4987c74bc7c406447b783bab40b130046a2f  sr-002-v1.0.md
 6c45bc9afa63733b78a7209f731999827d3ece53580412bd926fa74479b8871f  sr-003-drawdowns-2026-11-02-v1.1.csv
 211de623db21dec1f1e62f64cd61be83eff8b39ae8ce0dd48428c3005f43ecb6  great-ai-infrastructure-liquidation-v1-0.html
 f50ce7a74d5339ef318be9b68baa64382e1c0bdd4279f4a35e11e1c4cc2a5a78  great-ai-infrastructure-liquidation-v1-1.html
+85388f8a175fc82fc3fdca0202ab28b0f6379a1d616ce9ea9dc316b566835ea4  sr-004-v1.0.md
+1136691ccb1c7cf68afe0f1077be2dad1109ecd557ad0afcb4ec94b6aaad3ea8  sr-004-evidence-and-valuation-appendix-v1.0.md
+ae60be5e00da4396897fe2db2948c99fbc744a1d46f025cbc420e68671a3d84f  sr-004-valuation-assumptions-v1.0.json
+b49dfff4fed7ea2cb3b1bb5202fe3556d5bc43e90e7c82455d7ac56d435768cc  sr-004-v1.0-manifest.json
+9146ed1c90f2a0cc361a5dffc335aa745dae8269c8d3f89fddfd042951845145  the-300-million-question-v1-0.html

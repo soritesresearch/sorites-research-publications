@@ -1,0 +1,17 @@
+{
+  "publication_id": "SR-004",
+  "version": "1.0",
+  "title": "The $300 Million Question: Why Aren’t AI Giants Buying the Physical World?",
+  "source_cutoff": "2026-11-12 America/Vancouver",
+  "release_date": "2026-11-13",
+  "hash_algorithm": "SHA-256",
+  "files": [
+    {"path":"sr-004-v1.0.md","bytes":32510,"sha256":"85388f8a175fc82fc3fdca0202ab28b0f6379a1d616ce9ea9dc316b566835ea4"},
+    {"path":"sr-004-evidence-and-valuation-appendix-v1.0.md","bytes":35358,"sha256":"1136691ccb1c7cf68afe0f1077be2dad1109ecd557ad0afcb4ec94b6aaad3ea8"},
+    {"path":"sr-004-valuation-assumptions-v1.0.json","bytes":1735,"sha256":"ae60be5e00da4396897fe2db2948c99fbc744a1d46f025cbc420e68671a3d84f"},
+    {"path":"the-300-million-question.html","bytes":33621,"sha256":"9146ed1c90f2a0cc361a5dffc335aa745dae8269c8d3f89fddfd042951845145"},
+    {"path":"the-300-million-question-v1-0.html","bytes":33621,"sha256":"9146ed1c90f2a0cc361a5dffc335aa745dae8269c8d3f89fddfd042951845145"},
+    {"path":"assets/styles-sr004-v10.css","bytes":1198,"sha256":"f6fe594bf6d90e084c777e7f7ca402d31c683a7c2199d8cd6216efa2b1f507ad"}
+  ],
+  "exclusions": "Confidential buyer memo, outreach plan, private diligence addendum, editorial review files and private review archives are not public release assets."
+}
