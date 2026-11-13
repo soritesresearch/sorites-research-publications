@@ -1,0 +1,63 @@
+{
+  "as_of": "2026-11-12",
+  "currency": "USD",
+  "status": "Illustrative assumptions, not current payoff balances or bids",
+  "inputs_m": {
+    "face_debt": 100,
+    "usable_excess_cash": 20,
+    "warrants": 35,
+    "awards": 15,
+    "debt_premiums_interest": 20,
+    "fees": 25,
+    "contingent_termination": 10,
+    "integration_retention": 40,
+    "working_capital": 25,
+    "18_month_operating_losses_including_routine_capex": 100
+  },
+  "reverse_underwriting": {
+    "discount_rate": 0.12,
+    "payment_years": [
+      2.5,
+      3.5,
+      4.5,
+      5.5,
+      6.5,
+      7.5,
+      8.5,
+      9.5,
+      10.5,
+      11.5
+    ],
+    "PV_factor": 4.766927610084627,
+    "terminal_value": 0
+  },
+  "cases": [
+    {
+      "common_consideration_m": 300,
+      "equity_including_warrants_awards_m": 350,
+      "EV_m": 430,
+      "unlevered_18_month_funding_m": 650,
+      "illustrative_buyer_cash_with_200m_new_debt_m": 484,
+      "basic_per_share_using_2026_10_09_count": 1.397344641813734,
+      "annual_FCF_required_m": 136.35617176667395
+    },
+    {
+      "common_consideration_m": 500,
+      "equity_including_warrants_awards_m": 550,
+      "EV_m": 630,
+      "unlevered_18_month_funding_m": 850,
+      "illustrative_buyer_cash_with_200m_new_debt_m": 684,
+      "basic_per_share_using_2026_10_09_count": 2.328907736356223,
+      "annual_FCF_required_m": 178.31191692565056
+    },
+    {
+      "common_consideration_m": 1000,
+      "equity_including_warrants_awards_m": 1050,
+      "EV_m": 1130,
+      "unlevered_18_month_funding_m": 1350,
+      "illustrative_buyer_cash_with_200m_new_debt_m": 1184,
+      "basic_per_share_using_2026_10_09_count": 4.657815472712446,
+      "annual_FCF_required_m": 283.2012798230921
+    }
+  ]
+}
